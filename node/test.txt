@@ -1,0 +1,151 @@
+2017:09:10:04:54:19 User : reciept
+2017:09:10:04:54:19 Medbot : Sorry, I don't understand your words! Could you be more specific?
+2017:09:10:05:00:20 User : hi
+2017:09:10:05:00:20 Medbot : Hi, pal!
+2017:09:10:05:00:39 User : instruction
+2017:09:10:05:00:39 Medbot : Which medicine?
+2017:09:10:05:00:49 User : atorvastatin
+2017:09:10:05:00:49 Medbot : Sure, the instruction is take one tablet once a day
+2017:09:10:05:02:08 User : how do i take atorvastatin
+2017:09:10:05:02:08 Medbot : Sure, the instruction is take one tablet once a day
+2017:09:10:05:02:42 User : can i take atorvastatin and gemfibrozil together?
+2017:09:10:05:02:42 Medbot : Yeah, and do you want to set up a reminder or get the instruction?
+2017:09:10:05:03:22 User : is there an interaction between atorvastatin and gemfibrozil?
+2017:09:10:05:03:22 Medbot : Yeah, and do you want to set up a reminder or get the instruction?
+2017:09:10:05:07:42 User : is there an interaction between atorvastatin and gemfibrozil?
+2017:09:10:05:07:42 Medbot : Yeah, and do you want to set up a reminder or get the instruction?
+2017:09:10:05:09:21 User : are there side effects for melatonin
+2017:09:10:05:09:21 Medbot : you may have the following symptoms: dizziness, enuresis, excessive daytime somnolence, headache, nausea, insomnia, nightmares, and transient depression
+2017:09:10:05:11:04 User : are there side effects for hydrochlorothiazide
+2017:09:10:05:11:04 Medbot : you may have the following symptoms: constipation, diarrhea; dizziness; upset stomach, throwing up, tiredness, weakness, headache
+2017:09:10:05:13:32 User : remind me to take gemfibrozil
+2017:09:10:05:13:32 Medbot : Yeah, and do you want to set up a reminder or get the instruction?
+2017:09:10:05:13:36 User : hi
+2017:09:10:05:13:36 Medbot : Hi, pal!
+2017:09:10:05:13:59 User : hi
+2017:09:10:05:13:59 Medbot : Hi, pal!
+2017:09:10:05:15:49 User : hi
+2017:09:10:05:15:49 Medbot : Hi, pal!
+2017:09:10:05:17:08 User : hi
+2017:09:10:05:17:08 Medbot : Hi, pal!
+2017:09:10:05:18:36 User : schedule montelukast
+2017:09:10:05:18:36 Medbot : Yeah, and do you want to set up a reminder or get the instruction?
+2017:09:10:05:18:46 User : yes
+2017:09:10:05:18:46 Medbot : Sorry, I don't understand your words! Could you be more specific?
+2017:09:10:05:18:55 User : reminder
+2017:09:10:05:18:55 Medbot : Sure, your reminder schedule will be:
+2017:09:10:05:22:45 User : hk
+2017:09:10:05:22:45 Medbot : Sorry, I don't understand your words! Could you be more specific?
+2017:09:10:05:23:41 Medbot : That's my boy/girl!
+2017:09:10:05:23:46 Medbot : Fine I don't even care anymore.
+2017:09:10:05:23:54 Medbot : Fine I don't even care anymore.
+2017:09:10:10:26:19 User : hi
+2017:09:10:10:26:19 Medbot : Hi, pal!
+2017:09:10:10:28:15 User : Can you remind me to take melatonin?
+2017:09:10:10:28:15 Medbot : Yeah, and do you want to set up a reminder or get the instruction?
+2017:09:10:10:30:07 User : Can you remind me to take melatonin?
+2017:09:10:10:30:07 Medbot : Sure, your reminder schedule will be:
+2017:09:10:10:39:31 User : Can you remind me to take melatonin?
+2017:09:10:10:39:31 Medbot : Sure!
+2017:09:10:10:39:35 User : Can you remind me to take melatonin?
+2017:09:10:10:39:35 Medbot : Sure!
+2017:09:10:10:39:39 User : Can you remind me to take melatonin?
+2017:09:10:10:39:39 Medbot : Sure!
+2017:09:10:10:39:43 User : Can you remind me to take melatonin?
+2017:09:10:10:39:43 Medbot : Sure!
+2017:09:10:10:39:46 User : Can you remind me to take melatonin?
+2017:09:10:10:39:46 Medbot : Sure!
+2017:09:10:10:39:54 User : Can you remind me to take melatonin?
+2017:09:10:10:39:54 Medbot : Sure!
+2017:09:10:10:40:13 User : Can you remind me to take melatonin?
+2017:09:10:10:40:13 Medbot : Sure!
+2017:09:10:10:41:26 User : Can you remind me to take melatonin?
+2017:09:10:10:41:26 Medbot : Sorry, I don't understand your words! Could you be more specific?
+2017:09:10:10:41:39 User : hi
+2017:09:10:10:41:39 Medbot : Sorry, I don't understand your words! Could you be more specific?
+2017:09:10:10:41:43 User : hi
+2017:09:10:10:41:43 Medbot : Sorry, I don't understand your words! Could you be more specific?
+2017:09:10:10:41:54 User : hi
+2017:09:10:10:41:54 Medbot : Hi, pal!
+2017:09:10:10:42:01 User : Can you remind me to take melatonin?
+2017:09:10:10:42:01 Medbot : Sure!
+2017:09:10:10:42:31 User : Can you remind me to take hydrochlorothiazide?
+2017:09:10:10:42:31 Medbot : Sure!
+2017:09:10:10:45:38 User : hi
+2017:09:10:10:45:38 Medbot : Hi, pal!
+2017:09:10:10:45:46 User : Can you remind me to take melatonin?
+2017:09:10:10:45:46 Medbot : Sure!
+2017:09:10:10:46:00 User : Can you remind me to take hydrochlorothiazide?
+2017:09:10:10:46:00 Medbot : Sure!
+2017:09:10:10:47:07 Medbot : Already in your reminder!
+2017:09:10:10:47:28 User : hi
+2017:09:10:10:47:28 Medbot : Hi, pal!
+2017:09:10:10:49:43 User : Can you remind me to take hydrochlorothiazide?
+2017:09:10:10:49:43 Medbot : Sure!
+2017:09:10:10:50:00 User : Can you remind me to take melatonin?
+2017:09:10:10:50:00 Medbot : Sure!
+2017:09:10:10:51:13 Medbot : Already in your reminder!
+2017:09:10:10:52:01 User : hi
+2017:09:10:10:52:01 Medbot : Hi, pal!
+2017:09:10:10:52:11 User : Can you remind me to take hydrochlorothiazide?
+2017:09:10:10:52:11 Medbot : Sure!
+2017:09:10:10:54:27 User : Can you remind me to take hydrochlorothiazide?
+2017:09:10:10:54:27 Medbot : Sure!
+2017:09:10:10:55:41 User : Can you remind me to take hydrochlorothiazide?
+2017:09:10:10:55:41 Medbot : Sure!
+2017:09:10:10:59:16 User : Can you remind me to take hydrochlorothiazide?
+2017:09:10:10:59:16 Medbot : Sure!
+2017:09:10:10:59:52 User : Can you remind me to take melatonin?
+2017:09:10:10:59:52 Medbot : Sure!
+2017:09:10:11:01:16 User : hi
+2017:09:10:11:01:16 Medbot : Hi, pal!
+2017:09:10:11:01:21 User : Can you remind me to take hydrochlorothiazide?
+2017:09:10:11:01:21 Medbot : Sure!
+2017:09:10:11:01:38 User : Can you remind me to take melatonin?
+2017:09:10:11:01:38 Medbot : Sure!
+2017:09:10:11:05:00 User : Can you remind me to take melatonin?
+2017:09:10:11:05:00 Medbot : Sure!
+2017:09:10:11:06:58 User : Can you remind me to take melatonin?
+2017:09:10:11:06:58 Medbot : Sure!
+2017:09:10:11:08:38 Medbot : That's my boy/girl!
+2017:09:10:11:16:32 Medbot : That's my boy/girl!
+2017:09:10:11:16:35 User : What is melatonin?
+2017:09:10:11:16:35 Medbot : Sorry, I don't understand your words! Could you be more specific?
+2017:09:10:11:16:37 User : hi
+2017:09:10:11:16:37 Medbot : Sorry, I don't understand your words! Could you be more specific?
+2017:09:10:11:16:57 User : hi
+2017:09:10:11:16:57 Medbot : Hi, pal!
+2017:09:10:11:17:04 User : How to take melatonin?
+2017:09:10:11:17:04 Medbot : Sure, the instruction is take one tablet every day at bed time
+2017:09:10:11:17:50 User : How to take melatonin?
+2017:09:10:11:17:50 Medbot : Sure, the instruction is take one tablet every day at bed time
+2017:09:10:11:18:30 User : What are complications for melatonin?
+2017:09:10:11:18:30 Medbot : Sure, the complication may include: 
+2017:09:10:11:20:50 User : hi
+2017:09:10:11:20:50 Medbot : Hi, pal!
+2017:09:10:11:20:59 User : What are complications for melatonin?
+2017:09:10:11:20:59 Medbot : Sure, the complication may include:  
+2017:09:10:11:21:27 User : What are complications for melatonin?
+2017:09:10:11:21:27 Medbot : Sure, the complication may include:  
+2017:09:10:11:22:43 User : What are complications for melatonin?
+2017:09:10:11:22:43 Medbot : Sure, the complication may include:  
+2017:09:10:11:23:50 User : What are complications for melatonin?
+2017:09:10:11:23:50 Medbot : Sure, the complication may include:  
+2017:09:10:11:29:36 User : What are complications for melatonin?
+2017:09:10:11:29:36 Medbot : Sure, the complication may include: none
+2017:09:10:11:30:11 User : Side effect melatonin?
+2017:09:10:11:30:11 Medbot : you may have the following symptoms: dizziness, enuresis, excessive daytime somnolence, headache, nausea, insomnia, nightmares, and transient depression
+2017:09:10:11:31:12 User : sever adverse event of melatonin
+2017:09:10:11:31:12 Medbot : Yeah, and do you want to set up a reminder or get the instruction?
+2017:09:10:11:41:13 User : sever adverse event of melatonin
+2017:09:10:11:41:13 Medbot : Take a look, you probabaly may have the following severe adverse event:  
+2017:09:10:11:41:51 User : sever adverse event of gemfibrozil
+2017:09:10:11:41:51 Medbot : Take a look, you probabaly may have the following severe adverse event: allergic reaction rash; hives; itching; red, swollen, peeling skin; wheezing; tightness in the chest throat; trouble breathing talking; swelling of the mouth, face, lips, tongue, throat. Muscle pain, muscle weakness. joint pain, swelling, unable to pass urine Chest pain. Fever, chills. tiredness, weakness
+2017:09:10:11:54:49 User : hi
+2017:09:10:11:54:49 Medbot : Hi, pal!
+2017:09:10:11:54:53 User : hello
+2017:09:10:11:54:53 Medbot : Hi, pal!
+2017:09:10:11:54:57 User : hi
+2017:09:10:11:54:57 Medbot : Hi, pal!
+2017:09:10:12:29:24 User : hi
+2017:09:10:12:29:24 Medbot : Hi, pal!
